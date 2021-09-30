@@ -20,5 +20,5 @@ nav_order: 4
 | Абдуллаева Сабина    | [🐍 Code](){: .btn } |
 | Гладких Прохор       | [🐍 Code](){: .btn } |
 | Барабанов Вячеслав   | [🐍 Code](){: .btn } |
-| Плаксин Владислав    | [🐍 Code](){: .btn } |
+| Плаксин Владислав    | [🐍 Code](https://colab.research.google.com/drive/1Tqpu5V6LGxfRWm24lyMZfoxIvRUrdZpp?authuser=1){: .btn } |
 | Чернавин Николай     | [🐍 Code](){: .btn } |
