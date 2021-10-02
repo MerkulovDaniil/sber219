@@ -5,7 +5,7 @@ nav_order: 4
 
 | Дерзнувший знать     | Ноутбук с домашкой |
 |----------------------|:------------------:|
-| Быков Николай        | [🐍 Code](){: .btn } |
+| Быков Николай        | [🐍 Code](https://colab.research.google.com/drive/1h01bDwsUk4_SVn1Byo45Ni7pzCop4-MY?authuser=1){: .btn } |
 | Ганбаров Эльдар      | [🐍 Code](https://colab.research.google.com/drive/1-COdwbpaKjEOFhQPKcV3LVUwoJZ54QZm?authuser=1){: .btn } |
 | Копылов Владислав    | [🐍 Code](){: .btn } |
 | Михалев Антон        | [🐍 Code](https://colab.research.google.com/drive/1tVh2eX1GuTMg_uCX7ObPXFbOROD9Nf20?authuser=1){: .btn } |
