@@ -10,11 +10,11 @@ nav_order: 4
 | Копылов Владислав    | [🐍 Code](){: .btn } |
 | Михалев Антон        | [🐍 Code](https://colab.research.google.com/drive/1tVh2eX1GuTMg_uCX7ObPXFbOROD9Nf20?authuser=1){: .btn } |
 | Павлычев Николай     | [🐍 Code](){: .btn } |
-| Стафцев Егор         | [🐍 Code](){: .btn } |
+| Стафцев Егор         | [🐍 Code](https://colab.research.google.com/drive/1ZeggzTrUz5aH-ot_DzcR99sPUftDcaRh?authuser=1){: .btn } |
 | Тесемников Александр | [🐍 Code](){: .btn } |
-| Федоров Артур        | [🐍 Code](){: .btn } |
+| Федоров Артур        | [🐍 Code](https://colab.research.google.com/drive/1u3PDltf2twKhGCgzNLbJqhgBX9jqN9mo?authuser=1){: .btn } |
 | Бузунов Александр    | [🐍 Code](){: .btn } |
-| Ковязин Александр    | [🐍 Code](){: .btn } |
+| Ковязин Александр    | [🐍 Code](https://colab.research.google.com/drive/1lHL0p_FoHgUwQ7wyeECqeTdO2iMeLGUo?authuser=1){: .btn } |
 | Кузнецов Александр   | [🐍 Code](){: .btn } |
 | Елькин Станислав     | [🐍 Code](){: .btn } |
 | Абдуллаева Сабина    | [🐍 Code](){: .btn } |
