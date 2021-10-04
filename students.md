@@ -13,7 +13,7 @@ nav_order: 4
 | Гладких Прохор       | [🐍 Code](){: .btn } |
 | Елькин Станислав     | [🐍 Code](){: .btn } |
 | Ковязин Александр    | [🐍 Code](https://colab.research.google.com/drive/1lHL0p_FoHgUwQ7wyeECqeTdO2iMeLGUo?authuser=1){: .btn } |
-| Копылов Владислав    | [🐍 Code](){: .btn } |
+| Копылов Владислав    | [🐍 Code](https://colab.research.google.com/drive/1HnoyE4ywD9QY5oQi_UA9OxsI9Nk1ua5H?authuser=1){: .btn } |
 | Кузнецов Александр   | [🐍 Code](https://colab.research.google.com/drive/1CJ9vYqAOoIfoE11-S3ffO9i9K38JThJN?authuser=1){: .btn } |
 | Михалев Антон        | [🐍 Code](https://colab.research.google.com/drive/1tVh2eX1GuTMg_uCX7ObPXFbOROD9Nf20?authuser=1){: .btn } |
 | Павлычев Николай     | [🐍 Code](){: .btn } |
