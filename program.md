@@ -21,4 +21,8 @@ nav_order: 3
 
 | Выпуклость. Выпуклые множества.   | Практика: выпуклость. Выпуклые множества в практических задачах. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/3_1.ipynb){: .btn}      |
 | Выпуклые функции. Сильно выпуклые функции.    | Практика: выпуклые функции. Сильно выпуклые функции. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/3_2.ipynb){: .btn}      |
-| Субградиент. Субдифференциал. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/3_0.ipynb){: .btn}     | Практика: Подсчет субградиентов. Support Vector Machine как задача оптимизации. Lasso regression.  [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/3_3.ipynb){: .btn}         |
+
+## Занятие 4. [📄 Материалы](/presentations/4.pdf). [📝 Записи](/notes/4.pdf). [📼 Видео]().
+
+| Портфельная теория Марковица. | Практика: оптимизация финансового портфеля на примере реальных данных фондового рынка.  [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/4_1.ipynb){: .btn}
+| Методы нулевого порядка и примеры задач глобальной оптимизации.    | Практика: подбор гиперпараметров модели машинного обучения в Keras с помощью Optuna. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/4_2.ipynb){: .btn}      |
