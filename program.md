@@ -43,7 +43,7 @@ nav_order: 3
 
 | Метод сопряженных градиентов. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/7_01.ipynb){: .btn} | Практика: исследование сходимости метода сопряженных градиентов и изучение техники предобуславливателей. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/7_1.ipynb){: .btn} |
 | Метод Ньютона. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/7_02.ipynb){: .btn} | Практика: реализация демпфированного метода Ньютона. Исследование сходимости. Сравнение с другими методами. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/7_2.ipynb){: .btn}
-| Квазиньютоновские методы. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/7_03.ipynb){: .btn} | Практика: бенчмаркинг квазиньютоновских методов. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/7_3.ipynb){: .btn} |
+| Квазиньютоновские методы. | Практика: бенчмаркинг квазиньютоновских методов. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/7_3.ipynb){: .btn} |
 
 ## Занятие 8. [📄 Материалы](/presentations/8.pdf). [📝 Записи](/notes/8.pdf). [📼 Видео]().
 
