@@ -51,7 +51,7 @@ nav_order: 3
 | Симплекс метод. | Практика: планирование производства как задача линейного программирования в PyOMO. Blending problem. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/8_2.ipynb){: .btn}
 | Введение в Mixed Integer Programming. | Практика: реализация решения задачи о рюкзаке и о расстановке королев на шахматной доске. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/8_3.ipynb){: .btn} |
 
-## Занятие 9. [📄 Материалы](/presentations/9.pdf). [📝 Записи](/notes/9.pdf). [📼 Видео]().
+## Занятие 9. [📄 Материалы](/presentations/9.pdf). [📝 Записи](/notes/9.pdf). [📼 Видео](https://drive.google.com/drive/u/1/folders/18nEW7zF2YfjMVlNPXPg2qLXoaj78Aw0x).
 
 | Метод стохастического градиентного спуска. Батчи, эпохи, расписания. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/9_01.ipynb){: .btn} | Практика: исследование сходимости SGD. Подбор гиперпараметров. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/9_1.ipynb){: .btn} |
 | Nesterov Momentum и Polyak Momentum. Ускоренный градиентный метод. | Практика: исследование сходимости ускоренных методов в обучении нейронных сетей. 
