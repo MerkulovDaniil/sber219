@@ -18,7 +18,7 @@ nav_order: 4
 | Михалев Антон        | [🐍 Code](https://colab.research.google.com/drive/1tVh2eX1GuTMg_uCX7ObPXFbOROD9Nf20){: .btn } | 💎 |
 | Павлычев Николай     | [🐍 Code](https://colab.research.google.com/drive/1bVh6jwXLNzIWxpbQGcj-1xAsjr3AQ43y){: .btn } | ✅ |
 | Плаксин Владислав    | [🐍 Code](https://colab.research.google.com/drive/1Tqpu5V6LGxfRWm24lyMZfoxIvRUrdZpp){: .btn } | 💎 |
-| Роман Романов        | [🐍 Code](https://colab.research.google.com/drive/1lzjJhkNJmkhJb4Hk_XHTyn-4HCDa8MBx){: .btn } | ✅ |
+| Роман Романов        | [🐍 Code](https://colab.research.google.com/drive/1lzjJhkNJmkhJb4Hk_XHTyn-4HCDa8MBx){: .btn } | 💎 |
 | Стафцев Егор         | [🐍 Code](https://colab.research.google.com/drive/1ZeggzTrUz5aH-ot_DzcR99sPUftDcaRh){: .btn } | ✅ |
 | Тесемников Александр | [🐍 Code](https://colab.research.google.com/drive/1SEAfZkYpRC4EWvkWirm5nBHcIcb2RGFH){: .btn } | ✅ |
 | Федоров Артур        | [🐍 Code](https://colab.research.google.com/drive/1u3PDltf2twKhGCgzNLbJqhgBX9jqN9mo){: .btn } | 💎 |
