@@ -5,7 +5,7 @@ nav_order: 4
 
 | Дерзнувший знать     | Ноутбук с домашкой | Зачет |
 |----------------------|:------------------:|:---:|
-| Абдуллаева Сабина    | [🐍 Code](https://colab.research.google.com/drive/1eCI-BKM9OHbwZuIQNuQS6ZBcvf3Q7J9S){: .btn } | ✅ |
+| Абдуллаева Сабина    | [🐍 Code](https://colab.research.google.com/drive/1eCI-BKM9OHbwZuIQNuQS6ZBcvf3Q7J9S){: .btn } | 💎 |
 | Барабанов Вячеслав   | [🐍 Code](https://colab.research.google.com/drive/11dptqiDgoVizHOi3AOJX-wcpAOuIXjI0){: .btn } | 💎 |
 | Бузунов Александр    | [🐍 Code](){: .btn } |  |
 | Быков Николай        | [🐍 Code](https://colab.research.google.com/drive/1h01bDwsUk4_SVn1Byo45Ni7pzCop4-MY){: .btn } | 💎 |
